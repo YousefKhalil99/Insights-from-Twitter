@@ -1,5 +1,5 @@
 # Insights-from-Twitter
-In this Project, we will use pre-downloaded datasets to understand the nuts and bolts of Twitter Data. In particular, you will do a thorough analysis of a hot-trend.
+In this Project, we will use pre-downloaded datasets to understand the nuts and bolts of Twitter Data. In particular, you will do a thorough analysis of a hot-trend. The results will be done in a Jupyter Notebook, and outputted as a .html file.
 
 Project Tasks
 1. Importing local and global data
