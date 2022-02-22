@@ -12,3 +12,5 @@ Project Tasks
 8. A table that speaks a 1000 words
 9. Analyzing used languages
 10. Final thoughts
+
+![image](https://user-images.githubusercontent.com/73074313/155113144-e649eb73-b3bc-4188-b7af-45734c7edc06.png)
